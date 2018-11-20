@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "04766D65-DC83-4B83-BAFE-C9D9AED33417",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 458,
+    "width": 458,
+    "x": 824.9999999999999,
+    "y": 840
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Single Project",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "02A6BDEC-7429-4D74-8A97-D038D352A0F9",
+      "overrideName": "11373C16-D1C7-4D09-A749-40F21EF5889B_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/cf18952ab86a8e04fc60592d34507e57a991a85e.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C96380EE-C0C5-401D-802E-BA9845C9C084",
+      "overrideName": "1B23D58C-9E4E-41A7-96A1-D25E17618AC3_stringValue",
+      "value": "LOS MUERTOS"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B5DD57F6-7B42-45B6-9C97-2D0C56D67CCC",
+  "verticalSpacing": 0
+}

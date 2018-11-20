@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "A64502A1-7757-472E-907F-A7F4ED04621C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 458,
+    "width": 458,
+    "x": 824.9999999999999,
+    "y": 286
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Single Project",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CE2AC34D-7886-425E-902F-F5D3DCC86F90",
+      "overrideName": "4A09B827-86E8-4C00-AB3C-F3F56D6518CD_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/124661e310ebc03d5696738281a2f82cb4d53c8e.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "85E83686-DA2F-4834-9131-7C495A32FA84",
+      "overrideName": "DD3E0AD8-7550-4FCE-B8EC-D849EADF981D_stringValue",
+      "value": "VIKING QUEEN"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DEF1189E-AE0B-441B-BAC0-EECEBB2373BD",
+  "verticalSpacing": 0
+}

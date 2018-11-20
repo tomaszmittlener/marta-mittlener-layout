@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D25C6D72-58BE-42D5-BC6B-0CE2744A5402",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 458,
+    "width": 458,
+    "x": 234,
+    "y": 840
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Single Project",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2CA8FC8A-56A4-4471-B4E8-9D44F4DCE95A",
+      "overrideName": "B8A037DF-FBA5-49BB-A253-EBB43FD1F596_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/a6408f33fa313f35b64302dc746d1d5ab4859f82.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FE6625AF-51CA-4187-8C36-EC78FCD2191F",
+      "overrideName": "D01176D4-4121-45CF-9593-DEBC3F52F4D8_stringValue",
+      "value": "COSMIC ETHNO"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B24FC9BE-FE89-48E8-A56D-46CE1CEC1CD9",
+  "verticalSpacing": 0
+}

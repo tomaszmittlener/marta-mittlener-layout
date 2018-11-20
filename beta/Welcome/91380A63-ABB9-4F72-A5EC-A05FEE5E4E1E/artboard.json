@@ -1,0 +1,111 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "91380A63-ABB9-4F72-A5EC-A05FEE5E4E1E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1024,
+    "width": 768,
+    "x": 3550,
+    "y": 186
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "1D579D68-66B4-4942-8B6D-DB5E50149E7E"
+    },
+    {
+      "class": "shapePath",
+      "id": "756D74AE-5658-4EAD-8BDA-8E980A3A30B4"
+    },
+    {
+      "class": "shapePath",
+      "id": "9DBDA573-45F8-41AB-9550-7281CA263A3F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E4D45ED4-46DB-4D33-ABB5-4C46E9AB6681"
+    },
+    {
+      "class": "group",
+      "id": "CF3CD123-E3C9-413D-8241-7B4E22C62741"
+    },
+    {
+      "class": "rectangle",
+      "id": "4DEAF420-BD30-49DC-A97D-BBEBF89D49F8"
+    },
+    {
+      "class": "rectangle",
+      "id": "1CCA69F8-F619-496A-8C95-7F10FBAE89CC"
+    }
+  ],
+  "name": "Tablet Portrait",
+  "nameIsFixed": false,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Tablet",
+    "offersLandscapeVariant": 1,
+    "width": 768
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

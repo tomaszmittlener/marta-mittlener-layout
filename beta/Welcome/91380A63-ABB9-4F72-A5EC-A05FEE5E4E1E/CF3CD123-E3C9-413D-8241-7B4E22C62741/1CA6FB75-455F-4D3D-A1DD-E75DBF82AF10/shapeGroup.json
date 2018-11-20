@@ -1,0 +1,137 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "1CA6FB75-455F-4D3D-A1DD-E75DBF82AF10",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 72.35700000000008,
+    "width": 427.645,
+    "x": 0.2300000000000182,
+    "y": 14.44000244140625
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "6EAA1C92-7BCF-406E-A54F-3224CA89CCD2"
+    },
+    {
+      "class": "shapePath",
+      "id": "25C764EE-9C75-4960-BF66-A8626B00AFE0"
+    },
+    {
+      "class": "shapePath",
+      "id": "B8208D30-8AFB-44F1-B6AB-889FB9ED3B58"
+    },
+    {
+      "class": "shapePath",
+      "id": "39480D8D-9BE9-48D2-9E70-388229C85E83"
+    },
+    {
+      "class": "shapePath",
+      "id": "39852666-A354-409A-BAF8-75A0012E7E93"
+    },
+    {
+      "class": "shapePath",
+      "id": "79536A84-5FD7-4645-ABFB-B3A3DB67AD2C"
+    },
+    {
+      "class": "shapePath",
+      "id": "733E4310-8AC9-488C-AB21-DA29B720A00A"
+    },
+    {
+      "class": "shapePath",
+      "id": "430D7413-4452-4CD5-A397-608908DD9AB5"
+    },
+    {
+      "class": "shapePath",
+      "id": "A8ABAE37-195D-4D4B-AC3D-AC6C740C4743"
+    },
+    {
+      "class": "shapePath",
+      "id": "0318F11B-0703-4DFA-873A-87B68F0E0CDD"
+    },
+    {
+      "class": "shapePath",
+      "id": "B87A2772-EE56-4CFB-ACC5-83B5E628E644"
+    },
+    {
+      "class": "shapePath",
+      "id": "9552D486-7028-4676-B714-871F2855F4CC"
+    }
+  ],
+  "name": "Mittlener",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1333333333333333,
+          "green": 0.1333333333333333,
+          "red": 0.1333333333333333
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1333333333333333,
+          "green": 0.1333333333333333,
+          "red": 0.1333333333333333
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Montserrat-ExtraBold",
+            "size": 89
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "allowsDefaultTighteningForTruncation": 0
+        }
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "windingRule": 1
+}
